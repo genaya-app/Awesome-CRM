@@ -1,6 +1,17 @@
-# Awesome-CRM
+# 🚀 Awesome-CRM 🌟
+<div align="center">
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</div>
 
-## Top CRM Platforms Ecosystem
+
+<div align="center">
+  <img src="assets/banner.svg" alt="Awesome CRM Banner"/>
+</div>
+
+<!-- SEO: Awesome CRM is a curated list of top SaaS and open-source Customer Relationship Management platforms. Find the best CRM for your startup, SMB, or enterprise, including Salesforce, HubSpot, and open-source alternatives like Twenty and SuiteCRM. -->
+
+
+## 🏆 Top CRM Platforms Ecosystem 💼
 
 
 
@@ -40,145 +51,88 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
-## SaaS/Hosted Platforms
+## ☁️ SaaS/Hosted Platforms 🚀
 
 
 
-- **[Salesforce](https://www.salesforce.com/)**  
-
-  The leading enterprise CRM platform offering deep customization, AppExchange ecosystem, AI (Einstein), and comprehensive sales, service, and marketing clouds.
-
-
-
-- **[HubSpot](https://www.hubspot.com/)**  
-
-  Popular inbound CRM with a generous free tier, seamless marketing/sales/service hubs, easy automation, and strong growth-oriented tooling for SMBs and mid-market teams.
-
-
-
-- **[Zoho CRM](https://www.zoho.com/crm/)**  
-
-  Feature-rich, cost-effective CRM with strong automation, AI assistance (Zia), omnichannel capabilities, and tight integration across the Zoho suite.
+| Platform | Description | Pricing | Free Tier Limit | Company Size (Revenue/Valuation) |
+|---|---|---|---|---|
+| **[Salesforce](https://www.salesforce.com/)** | The leading enterprise CRM platform offering deep customization, AppExchange ecosystem, AI (Einstein), and comprehensive sales, service, and marketing clouds. | Starts at $25/user/mo | None | ~$30B |
+| **[HubSpot](https://www.hubspot.com/)** | Popular inbound CRM with a generous free tier, seamless marketing/sales/service hubs, easy automation, and strong growth-oriented tooling for SMBs and mid-market teams. | Starts at $20/mo | 1M contacts, limited tools | ~$2B |
+| **[Zoho CRM](https://www.zoho.com/crm/)** | Feature-rich, cost-effective CRM with strong automation, AI assistance (Zia), omnichannel capabilities, and tight integration across the Zoho suite. | Starts at $14/user/mo | Up to 3 users | ~$1B |
+| **[Freshsales](https://www.freshworks.com/crm/sales/)** | Freshworks CRM emphasizing built-in phone/email, AI scoring, deal insights, and a clean interface aimed at sales productivity. | Starts at $9/user/mo | Up to 3 users | ~$500M |
+| **[Pipedrive](https://www.pipedrive.com/)** | Sales-focused CRM known for its visual pipeline, activity-based selling methodology, ease of use, and strong adoption among sales teams. | Starts at $14/user/mo | None | ~$100M |
+| **[Copper](https://www.copper.com/)** | Google Workspace-native CRM that lives inside Gmail and Google Calendar, ideal for teams deeply embedded in the Google ecosystem. | Starts at $29/user/mo | None | ~$50M |
+| **[Insightly](https://www.insightly.com/)** | CRM combining sales, project management, and marketing automation features suited for small-to-midsize businesses. | Starts at $29/user/mo | Up to 2 users | ~$40M |
+| **[Close](https://www.close.com/)** | Inside-sales oriented CRM with powerful calling, email sequencing, SMS, and communication tools designed for high-velocity sales teams. | Starts at $49/user/mo | None | ~$30M |
+| **[Nutshell](https://www.nutshell.com/)** | Simple, all-in-one CRM for small businesses with pipeline management, email marketing, and reporting in a user-friendly package. | Starts at $16/user/mo | None | ~$15M |
+| **[Capsule CRM](https://capsulecrm.com/)** | Clean and intuitive CRM focused on contact management, pipeline tracking, and task organization for small teams and professionals. | Starts at $18/user/mo | Up to 2 users, 250 contacts | ~$10M |
 
 
 
-- **[Pipedrive](https://www.pipedrive.com/)**  
-
-  Sales-focused CRM known for its visual pipeline, activity-based selling methodology, ease of use, and strong adoption among sales teams.
+## 💻 Open-Source GitHub Projects 🔓
 
 
 
-- **[Freshsales](https://www.freshworks.com/crm/sales/)**  
+- **[Nocodb](https://github.com/nocodb/nocodb)** [![Stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers)
 
-  Freshworks CRM emphasizing built-in phone/email, AI scoring, deal insights, and a clean interface aimed at sales productivity.
+  Open Source Airtable Alternative which many use as a lightweight customizable CRM.
 
-
-
-- **[Close](https://www.close.com/)**  
-
-  Inside-sales oriented CRM with powerful calling, email sequencing, SMS, and communication tools designed for high-velocity sales teams.
-
-
-
-- **[Copper](https://www.copper.com/)**  
-
-  Google Workspace-native CRM that lives inside Gmail and Google Calendar, ideal for teams deeply embedded in the Google ecosystem.
-
-
-
-- **[Insightly](https://www.insightly.com/)**  
-
-  CRM combining sales, project management, and marketing automation features suited for small-to-midsize businesses.
-
-
-
-- **[Nutshell](https://www.nutshell.com/)**  
-
-  Simple, all-in-one CRM for small businesses with pipeline management, email marketing, and reporting in a user-friendly package.
-
-
-
-- **[Capsule CRM](https://capsulecrm.com/)**  
-
-  Clean and intuitive CRM focused on contact management, pipeline tracking, and task organization for small teams and professionals.
-
-
-
-## Open-Source GitHub Projects
-
-
-
-- **[Twenty](https://github.com/twentyhq/twenty)**  
+- **[Twenty](https://github.com/twentyhq/twenty)** [![Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers)
 
   Modern open-source CRM positioned as an alternative to Salesforce/HubSpot, built with a beautiful TypeScript/React stack, GraphQL API, and strong developer extensibility.
 
-
-
-- **[SuiteCRM](https://github.com/salesagility/SuiteCRM)**  
-
-  Mature, feature-rich open-source CRM (fork of SugarCRM) offering deep sales, marketing, and support functionality closest to traditional enterprise CRM feature sets.
-
-
-
-- **[EspoCRM](https://github.com/espocrm/espocrm)**  
-
-  Lightweight, highly customizable open-source CRM with a clean UI, no-code configuration, workflows, and strong self-hosting suitability for SMBs.
-
-
-
-- **[Odoo CRM](https://github.com/odoo/odoo)**  
+- **[Odoo](https://github.com/odoo/odoo)** [![Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers)
 
   Open-source CRM module within the broader Odoo ERP suite, providing sales pipeline, lead management, and seamless integration with inventory, accounting, and more.
 
+- **[Cal.com](https://github.com/calcom/cal.com)** [![Stars](https://img.shields.io/github/stars/calcom/cal.com?style=social&color=white)](https://github.com/calcom/cal.com/stargazers)
 
+  Open source scheduling infrastructure, essential for modern CRM systems.
 
-- **[Vtiger CRM](https://github.com/vtiger/vtigercrm)**  
-
-  Long-standing open-source CRM with sales, marketing, and support modules, available in both community and commercial editions.
-
-
-
-- **[YetiForce](https://github.com/YetiForceCompany/YetiForceCRM)**  
-
-  Feature-packed open-source CRM focused on flexibility, security, and extensive modules for sales, projects, and operations.
-
-
-
-- **[Dolibarr](https://github.com/Dolibarr/dolibarr)**  
-
-  Modular open-source ERP/CRM platform that includes customer management, invoicing, proposals, and commercial tracking for SMBs.
-
-
-
-- **[ERPNext](https://github.com/frappe/erpnext)**  
+- **[Erpnext](https://github.com/frappe/erpnext)** [![Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)
 
   Full open-source ERP with a capable CRM module covering leads, opportunities, customers, and sales workflows.
 
-
-
-- **[Chatwoot](https://github.com/chatwoot/chatwoot)**  
+- **[Chatwoot](https://github.com/chatwoot/chatwoot)** [![Stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)
 
   Open-source customer engagement platform often paired with CRMs for omnichannel conversations (live chat, email, social) and shared inboxes.
 
-
-
-- **[Erxes](https://github.com/erxes/erxes)**  
-
-  Open-source experience operating system combining CRM, marketing, and support capabilities as a HubSpot-style alternative.
-
-
-
-- **[Krayin CRM](https://github.com/krayin/laravel-crm)**  
-
-  Laravel-based open-source CRM focused on leads, contacts, organizations, products, quotes, and sales pipelines.
-
-
-
-- **[Monica](https://github.com/monicahq/monica)**  
+- **[Monica](https://github.com/monicahq/monica)** [![Stars](https://img.shields.io/github/stars/monicahq/monica?style=social&color=white)](https://github.com/monicahq/monica/stargazers)
 
   Open-source personal relationship management (PRM) tool useful for individuals and small teams tracking personal and professional contacts.
 
+- **[Laravel-crm](https://github.com/krayin/laravel-crm)** [![Stars](https://img.shields.io/github/stars/krayin/laravel-crm?style=social&color=white)](https://github.com/krayin/laravel-crm/stargazers)
 
+  Laravel-based open-source CRM focused on leads, contacts, organizations, products, quotes, and sales pipelines.
+
+- **[Docuseal](https://github.com/docusealco/docuseal)** [![Stars](https://img.shields.io/github/stars/docusealco/docuseal?style=social&color=white)](https://github.com/docusealco/docuseal/stargazers)
+
+  Open source document signing platform which can be integrated into CRM workflows.
+
+- **[Dolibarr](https://github.com/Dolibarr/dolibarr)** [![Stars](https://img.shields.io/github/stars/Dolibarr/dolibarr?style=social&color=white)](https://github.com/Dolibarr/dolibarr/stargazers)
+
+  Modular open-source ERP/CRM platform that includes customer management, invoicing, proposals, and commercial tracking for SMBs.
+
+- **[Suitecrm](https://github.com/salesagility/SuiteCRM)** [![Stars](https://img.shields.io/github/stars/salesagility/SuiteCRM?style=social&color=white)](https://github.com/salesagility/SuiteCRM/stargazers)
+
+  Mature, feature-rich open-source CRM (fork of SugarCRM) offering deep sales, marketing, and support functionality closest to traditional enterprise CRM feature sets.
+
+- **[Erxes](https://github.com/erxes/erxes)** [![Stars](https://img.shields.io/github/stars/erxes/erxes?style=social&color=white)](https://github.com/erxes/erxes/stargazers)
+
+  Open-source experience operating system combining CRM, marketing, and support capabilities as a HubSpot-style alternative.
+
+- **[Espocrm](https://github.com/espocrm/espocrm)** [![Stars](https://img.shields.io/github/stars/espocrm/espocrm?style=social&color=white)](https://github.com/espocrm/espocrm/stargazers)
+
+  Lightweight, highly customizable open-source CRM with a clean UI, no-code configuration, workflows, and strong self-hosting suitability for SMBs.
+
+- **[Yetiforcecrm](https://github.com/YetiForceCompany/YetiForceCRM)** [![Stars](https://img.shields.io/github/stars/YetiForceCompany/YetiForceCRM?style=social&color=white)](https://github.com/YetiForceCompany/YetiForceCRM/stargazers)
+
+  Feature-packed open-source CRM focused on flexibility, security, and extensive modules for sales, projects, and operations.
+
+- **[Vtigercrm](https://github.com/vtiger/vtigercrm)** [![Stars](https://img.shields.io/github/stars/vtiger/vtigercrm?style=social&color=white)](https://github.com/vtiger/vtigercrm/stargazers)
+
+  Long-standing open-source CRM with sales, marketing, and support modules, available in both community and commercial editions.
 
 ### Additional Strong Open-Source Options
 
@@ -237,3 +191,16 @@ Star the repo if you find it useful!
 **Made for sales teams, revenue operations, founders, and developers who want ownership of their customer data.**  
 
 Let's make CRM more open, customizable, and free from vendor lock-in.
+
+
+## 📈 Star History
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-CRM&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-CRM&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-CRM&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-CRM&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>
+
